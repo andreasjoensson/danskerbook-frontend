@@ -1,7 +1,7 @@
 version: "3"
 services: 
   react: 
-    image: nyclient
+    image: client
     stdin_open: true
     ports:
       - "3000:3000"
