@@ -1,9 +1,0 @@
-.deletePostBtn{
-    cursor: pointer;
-    color: indianred;
-}
-.postDelete{
-    position: absolute;
-    right: 10px;
-    top: 15px;
-}
